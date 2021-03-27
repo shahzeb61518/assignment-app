@@ -1,0 +1,22 @@
+.remove-modal {
+  visibility: hidden;
+}
+
+.main-div {
+  padding: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.product-img {
+  width: 100px;
+}
+
+.card-text {
+  text-align: right;
+}
+
+.action-btns {
+  text-align: center;
+  padding-top: 50px;
+}
